@@ -1,0 +1,5 @@
+---
+###############################
+# Ansible config values(overriding ansible.cfg)
+###############################
+ansible_user: appuser
